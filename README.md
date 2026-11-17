@@ -1,10 +1,10 @@
 # password-strength-checker
 Python Password Strength Checker Cyber Security Project
-Project Overview
+## Project Overview
 
 The Password Strength Checker is a Python-based cybersecurity project that evaluates the strength of a password. It checks different password conditions, estimates password entropy, identifies common weak passwords, and provides suggestions to improve password security.
 
-🎯 Project Objectives
+## Project Objectives
 
 To understand basic password security concepts.
 
@@ -18,7 +18,7 @@ To classify passwords based on their strength.
 
 To provide suggestions for creating stronger passwords.
 
-✨ Features
+## Features
 
 Checks password length.
 
@@ -36,7 +36,7 @@ Classifies passwords as Weak, Moderate, Strong, or Exceptional.
 
 Provides suggestions to improve password security.
 
-🛠️ Technologies Used
+## Technologies Used
 
 Python
 
@@ -46,7 +46,7 @@ Command Prompt (CMD)
 
 GitHub
 
-How to Run the Project
+## How to Run the Project
 
 Step 1: Install Python on your computer.
 
@@ -64,7 +64,7 @@ python password_checker.py
 
 Step 5: Enter a password when prompted and view the security report.
 
-📊 Sample Output
+## Sample Output
 
 Enter your password: Mihir@12345
 
@@ -84,7 +84,7 @@ Suggestions:
 
 Note: The entropy value is an estimate and may vary depending on the password.
 
-📸 Project Screenshots
+## Project Screenshots
 
 The repository includes command-line screenshots demonstrating four password strength levels:
 
@@ -96,7 +96,7 @@ Strong Password
 
 Exceptional Password
 
-⚠️ Limitations
+## Limitations
 
 Uses a small local list of common weak passwords.
 
@@ -106,7 +106,7 @@ Entropy is an estimate based on the character pool.
 
 It is a command-line-based application.
 
-🚀 Future Enhancements
+## Future Enhancements
 
 Integrate a larger common-password database.
 
@@ -116,16 +116,16 @@ Improve password security analysis.
 
 Add secure password generation.
 
-👨‍💻 Developer
+## Developer
 
 Mihir Koshti
 
-Cyber Security Internship Project – Workora
+Cybersecurity Internship Project – Workora
 
-📄 Conclusion
+## Conclusion
 
 This project demonstrates basic password security checking using Python. It helps users understand password strength, entropy, and the importance of creating strong passwords.
 
-🔗 GitHub Repository
+## GitHub Repository
 
 https://github.com/0805-mihir/password-strength-checker
